@@ -1,1 +1,7 @@
-IyBTYW1wbGUgRW1wbG95ZWUgRGF0YQoKfCBOYW1lICAgfCAgIEFnZSB8IENpdHkgICAgICAgICAgfAp8Oi0tLS0tLS18LS0tLS0tOnw6LS0tLS0tLS0tLS0tLS18CnwgSm9obiAgIHwgICAgMjggfCBOZXcgWW9yayAgICAgIHwKfCBBbGljZSAgfCAgICAyNCB8IFNhbiBGcmFuY2lzY28gfAp8IEJvYiAgICB8ICAgIDMyIHwgQ2hpY2FnbyAgICAgICB8
+# Sample Employee Data
+
+| Name   |   Age | City          |
+|:-------|------:|:--------------|
+| John   |    28 | New York      |
+| Alice  |    24 | San Francisco |
+| Bob    |    32 | Chicago       |

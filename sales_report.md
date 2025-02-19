@@ -1,12 +1,12 @@
 # Data Visualization Report
 
-    ## Graph
-    ![Data Visualization](./sales_graph.png)
+## Graph
+![Data Visualization](./sales_graph.png)
 
-    ## Description
-    This graph shows the visualization of the data presented in the table below.
+## Description
+This graph shows the visualization of the data presented in the table below.
 
-    ## Data Table
+## Data Table
 
 | Month   |   Sales |
 |:--------|--------:|

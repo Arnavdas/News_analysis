@@ -1,9 +1,12 @@
 # Data Visualization Report
 
     ## Graph
-    ![Data Visualization](sales_graph.png)
+    ![Data Visualization](./sales_graph.png)
 
-## Data Table
+    ## Description
+    This graph shows the visualization of the data presented in the table below.
+
+    ## Data Table
 
 | Month   |   Sales |
 |:--------|--------:|
@@ -12,3 +15,16 @@
 | Mar     |     900 |
 | Apr     |    1500 |
 | May     |    1800 |
+
+## Basic Statistics
+
+|       |    Sales |
+|:------|---------:|
+| count |    5     |
+| mean  | 1280     |
+| std   |  370.135 |
+| min   |  900     |
+| 25%   | 1000     |
+| 50%   | 1200     |
+| 75%   | 1500     |
+| max   | 1800     |

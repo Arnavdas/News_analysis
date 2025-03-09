@@ -1,9 +1,9 @@
 # DataFrame Table
 | Name    |   Age | City        |
 |:--------|------:|:------------|
-| Alice   |    25 | New York    |
-| Bob     |    30 | Los Angeles |
-| Charlie |    35 | Chicago     |
+| Alice   |    -5 | New York    |
+| Bob     |   -20 | Los Angeles |
+| Charlie |    15 | Chicago     |
 
 # Graph
 ![Age Distribution](age_distribution.png)
